@@ -1,0 +1,21 @@
+{
+  "observations": 24,
+  "cells": 12,
+  "electrode_tests_per_cell": 2,
+  "scope": "Conditional electrode-level analysis of these batches; no synthesis-level replication.",
+  "formula": "SA ~ C(Loading_level, Sum) * C(Carbon, Sum) * C(Locality, Sum)",
+  "residual_df": 12,
+  "residual_ms": 13.856054166666661,
+  "residual_sd": 3.722372115555706,
+  "R_squared_descriptive": 0.975533698696412,
+  "max_absolute_sa_ratio_discrepancy": 0.43402502606882365,
+  "design_rank": 12,
+  "rank_after_adding_actual_loading": 12,
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "statsmodels": "0.14.6",
+    "matplotlib": "3.10.8"
+  }
+}

@@ -1,0 +1,13 @@
+Sample,Carbon,Loading_level,Locality,Loading
+Pt_OUT-15/FCX-Disordered,Disordered,15,OUT,14.6
+Pt_IN-15/FCX-Disordered,Disordered,15,IN,16.08
+Pt_OUT-40/FCX-Disordered,Disordered,40,OUT,45.01
+Pt_IN-40/FCX-Disordered,Disordered,40,IN,42.05
+Pt_OUT-15/FCX-Graphitized,Graphitized,15,OUT,12.2
+Pt_IN-15/FCX-Graphitized,Graphitized,15,IN,16.08
+Pt_OUT-40/FCX-Graphitized,Graphitized,40,OUT,41.2
+Pt_IN-40/FCX-Graphitized,Graphitized,40,IN,38.4
+Pt_OUT-15/FCX-B,FCX-B,15,OUT,12.3
+Pt_IN-15/FCX-B,FCX-B,15,IN,18.8
+Pt_OUT-40/FCX-B,FCX-B,40,OUT,39.9
+Pt_IN-40/FCX-B,FCX-B,40,IN,42.6

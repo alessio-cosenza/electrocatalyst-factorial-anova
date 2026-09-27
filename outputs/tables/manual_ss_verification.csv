@@ -1,0 +1,9 @@
+term,SS_manual,df_manual
+Loading,5496.124004,1
+Carbon,21.726975,2
+Locality,667.9205042,1
+Loading x Carbon,153.9749083,2
+Loading x Locality,104.3751042,1
+Carbon x Locality,50.77140833,2
+Loading x Carbon x Locality,134.8208083,2
+Residual,166.27265,12
